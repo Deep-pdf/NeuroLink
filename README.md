@@ -227,12 +227,12 @@ AI-based emotion detection
 
 🙌 Team / Contribution
 
-Sumit Kumar, Leader — Website Developer 
+Sumit Kumar	Leader • App & Web Developer
 
-Arman MIshra — Handle Reseach and Presentation part
+Arman Mishra	Research & Presentation
 
-Priyanshu Pandey — Manage AI Agent
+Priyanshu Pandey	AI Agent & Automation
 
-Soumodeep Santra — Designer
+Soumodeep Santra	UI/UX Designer
 
 
